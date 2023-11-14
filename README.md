@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @real-hhappa0
+- 👀 I’m interested in airplanes
+- 🌱 I’m currently learning ...
+- 📫 How to reach me:
+  - Discord: [Click here.](https://discord.gg/92dX7ZbPht)
