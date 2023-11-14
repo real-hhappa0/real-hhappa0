@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @real-hhappa0
-- 👀 I’m interested in airplanes
-- 🌱 I’m currently learning ...
-- 📫 How to reach me:
+- 👀 I’m coding Bukkit/Spigot/Paper plugins for Minecraft
+- 🌱 I’m currently learning BungeeCord/Waterfall
+- 📫 Contact:
   - Discord: [Click here.](https://discord.gg/92dX7ZbPht)
